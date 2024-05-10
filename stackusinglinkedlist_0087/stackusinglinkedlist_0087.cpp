@@ -12,3 +12,8 @@ public:
 		next = NULL;
 	}
 };
+
+// Stack Class
+class Stack {
+
+};
